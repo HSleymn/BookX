@@ -4,4 +4,4 @@ This repository contains my first "big" project, in python language. It's a code
 
 Dieses Repository enthält mein erstes "großes" Projekt, in der Programmiersprache Python. Es ist ein schlecht geschriebener Code (in meiner Anfangszeit erstellt), der eine Verbindung in einem Computersystem simuliert, hier das System einer Bibliothek.
 
-Writed 28/12/2022
+Wrote on 28/12/2022
